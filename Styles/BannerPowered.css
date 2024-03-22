@@ -87,6 +87,7 @@ main{
     border-top: solid;
     border-color: #4a9dfc;
     bottom: 15%;
+    right: 10%;
 }
 #supervisor{
     grid-row: 2 / 4;
@@ -94,6 +95,7 @@ main{
     border-top: solid;
     border-color: #62dada;
     bottom: 15%;
+    left: 10%;
 }
 #Karma{
     margin-top: 10px;
@@ -101,5 +103,5 @@ main{
     grid-column: 4 / 6;
     border-top: solid;
     border-color: #fc9b1d;
-    bottom: 25%;
+    bottom: 30%;
 }
